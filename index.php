@@ -11,7 +11,7 @@
 	<?php if ($user->premium): ?>
 		<p>You are Premium</p>
 	<?php else: ?>
-		<p>You are not Premium.<a href="#">Go premium</a></p>
+		<p>You are not Premium.<a href="premium.php">Go premium</a></p>
 	<?php endif; ?>
 
 
